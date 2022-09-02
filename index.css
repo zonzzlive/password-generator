@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+    padding: 50px 15px;
+    margin: 0;
+    color: white;
+    background: #000a2e;
+}
+
+#green-part{
+    color: #4dc748
+}
+
+h1{
+    margin: 0;
+}
+
+p{
+    margin-bottom: 25px;
+    color: #a5a6a8
+}
+
+button{
+    background: #4dc748;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    width: 175px;
+    padding: 10px;
+}
+
+.barre{
+    margin: 25px;
+    background: #2b314a;
+    height: 1px;
+}
+
+.password{
+    display: flex;
+}
+
+#passw-right, #passw-left{
+    text-align: center;
+    width: 150px;
+    background: #2b314a;
+    margin: 15px;
+    padding: 10px 5px;
+    border-radius: 3px;
+    color: #4dc748
+}
